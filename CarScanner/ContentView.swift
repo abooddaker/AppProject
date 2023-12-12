@@ -29,7 +29,7 @@ struct ContentView: View {
                 } else {
                     // Simulate finding car details
                     // Replace with actual data fetching logic
-                    carDetails = CarDetails(name: "Toyota Camry", yearModel: "2020", color: "Red", plate: "LSF 415")
+                    carDetails = CarDetails(name: "Toyota Camry", yearModel: "2020", color: "Rtested", plate: "LSF 415")
                 }
             }) {
                 Text("Submit")
